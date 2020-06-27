@@ -1,3 +1,3 @@
 # ds-examples
 
-Various data-structures implementation in Java.
+Various Data Structures implementation in Java.
